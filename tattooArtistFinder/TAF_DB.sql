@@ -1,5 +1,0 @@
-CREATE DATABASE TAF;
-
-USE TAF;
-
-
